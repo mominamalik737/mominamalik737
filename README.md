@@ -1,16 +1,25 @@
-## Hi there 👋
+# Momina Malik
 
-<!--
-**mominamalik737/mominamalik737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Software Engineering student passionate about building web applications, learning modern development workflows, and mastering version control systems like Git and GitHub.
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Technologies |
+| :--- | :--- |
+| Languages | Python, JavaScript, Java |
+| Frontend | HTML5, CSS3, React |
+| Tools | Git, GitHub, VS Code |
+
+## Featured Projects
+### 1. Online Hospital Appointment System
+A web-based appointment booking system designed to streamline patient registration and scheduling.
+
+### 2. Task Manager CLI
+A command-line task management tool to keep track of daily activities and software project milestones.
+
+## Contact
+- Email: [mominamalik737@gmail.com](mailto:mominamalik737@gmail.com)
+- LinkedIn: [Profile](https://linkedin.com)
+- GitHub: [@mominamalik737](https://github.com)
+
